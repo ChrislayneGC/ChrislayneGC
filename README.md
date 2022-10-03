@@ -1,7 +1,7 @@
 ### Oie! Meu nome é Chris 👋🏼
 
 - 🎓 Faculdade de Análise e Desenvolvimento de Sistemas(ADS) - UNIOPET
-- 📚 Cursando Programador FullStak - SENAI
+- 📚 Cursando Programador FullStack - SENAI
 - 📩 Email: dev.chrislayne@gmail.com 
 - 😄 Pronouns: ela/dela
 
