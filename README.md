@@ -1,21 +1,25 @@
-### Oie! Meu nome é Chris 👋🏼
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=450&lines=Ol%C3%A1%2C+Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
+![](https://media.discordapp.net/attachments/936682535147155509/1026790074479824916/Meu_projeto-1_2.png?width=1000&height=230)
+## Sobre mim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 🎓 Faculdade de Análise e Desenvolvimento de Sistemas(ADS) - UNIOPET
 - 📚 Cursando Programador FullStack - SENAI
 - 📩 Email: dev.chrislayne@gmail.com 
 - 😄 Pronouns: ela/dela
 
-</div>
-  <img align="right" alt="Chris-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/662399345206755377/905961926360715294/Design_sem_nome.gif?width=603&height=603">
-</div>
+## Meu GitHub <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
-<div align="center">
+<div align="rigth">
   <a href="https://github.com/chrislaynegc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrislaynegc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislaynegc&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrislayneGC&theme=radical&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=chrislaynegc&color=00cf00)
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -42,4 +46,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
   
  ![Snake animation](https://github.com/chrislaynegc/chrislaynegc/blob/output/github-contribution-grid-snake.svg)
  
+<div>
+  <h2>Linguagens e Frameworks</h2>
+  <img src=https://progress-bar.dev/70?title=HTML />
+  <img src=https://progress-bar.dev/60?title=CSS />
+  <img src=https://progress-bar.dev/75?title=JAVASCRIPT />
+  <img src=https://progress-bar.dev/90?title=JAVA  />
+  <img src=https://progress-bar.dev/55?title=PYTHON  />
+  <img src=https://progress-bar.dev/75?title=C  />
+  <img src=https://progress-bar.dev/50?title=PHP  />
+  <img src=https://progress-bar.dev/85?title=SQL  />
+  <img src=https://progress-bar.dev/70?title=REACT  />
 </div>
+
+
