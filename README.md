@@ -1,5 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=450&lines=Ol%C3%A1%2C+Seja+Bem-Vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=450&lines=Ol%C3%A1%2C+Seja+Bem-Vindo(a)!)](https://git.io/typing-svg) 
+## Me chamo, [Chrislayne Godoy]()!
 ![](https://media.discordapp.net/attachments/936682535147155509/1026790074479824916/Meu_projeto-1_2.png?width=1000&height=230)
 ## Sobre mim <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - 🎓 Faculdade de Análise e Desenvolvimento de Sistemas(ADS) - UNIOPET
@@ -20,7 +21,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrislayneGC&theme=radical&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=chrislaynegc&color=00cf00)
+![](https://visitor-badge.glitch.me/badge?page_id=chrislaynegc)
 
 ## Estudando <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 </div>
