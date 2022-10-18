@@ -2,16 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+Welcome!)](https://git.io/typing-svg)
 
-## About me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ > ### About me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+ <!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 My name is, [Chrislayne Godoy]()!
 - 🎓 Faculty of Systems Analysis and Development - UNIOPET
 - 📚 FullStack programmer - SENAI
 - 📩 Email: dev.chrislayne@gmail.com 
 - 😄 Pronouns: She/Her
 
-## My GitHub <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+> ### My GitHub <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+<!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-</a>
 <div align="rigth">
   <a href="https://github.com/chrislaynegc">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrislaynegc&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
@@ -25,9 +27,9 @@ My name is, [Chrislayne Godoy]()!
 ![](https://visitor-badge.glitch.me/badge?page_id=chrislaynegc)
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C002%20hrs%2026%20mins-blue)
 
-## Studying <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
-</div>
-<div style="display: inline_block"><br>
+> ### Studying <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28"> 
+<!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<div style="display: inline_block">
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
@@ -36,26 +38,25 @@ My name is, [Chrislayne Godoy]()!
   <img align="center" alt="Chris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
 </div>
 
-## Contact me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+> ### Contact me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div> 
-  <a href="https://www.instagram.com/cchris_godoy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/cchris_godoy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-    badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/chrislayne.caracato.7/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/ab4GbxedP3" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:dev.chrislayne@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/chrislayne-godoy-399708225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-##
-
+###
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-  <a href="https://open.spotify.com/playlist/5TUxgTIxzLbLVh7RUf9V8i?si=f714d8d5a1d943bd">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=default&bar_color=e3e3e3&bar_color_cover=true">
-  </a>
-</p>
-
-## 
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+<!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+ 
  ![Snake animation](https://github.com/chrislaynegc/chrislaynegc/blob/output/github-contribution-grid-snake.svg)
 
-## My favorite tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+> ### My favorite tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 👨‍💻 Programming and markup languages
 <p>
