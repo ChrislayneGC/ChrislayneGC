@@ -1,6 +1,7 @@
-![](https://media.discordapp.net/attachments/936682535147155509/1026790074479824916/Meu_projeto-1_2.png?width=1000&height=230)
+![](https://media.discordapp.net/attachments/936682535147155509/1032051213262397440/Design_sem_nome_1.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B30000&background=7B000000&width=435&lines=Hey+there%2C+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+Welcome!)](https://git.io/typing-svg)
+
 ## About me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 My name is, [Chrislayne Godoy]()!
 - 🎓 Faculty of Systems Analysis and Development - UNIOPET
@@ -10,14 +11,15 @@ My name is, [Chrislayne Godoy]()!
 
 ## My GitHub <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 
+</a>
 <div align="rigth">
   <a href="https://github.com/chrislaynegc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrislaynegc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislaynegc&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=chrislaynegc&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrislaynegc&theme=github_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChrislayneGC&theme=dracula&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrislaynegc&theme=github_dark&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![](https://visitor-badge.glitch.me/badge?page_id=chrislaynegc)
@@ -26,17 +28,13 @@ My name is, [Chrislayne Godoy]()!
 ## Studying <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md">
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
   <img align="center" alt="Chris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Chris-CSS" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg">
-  <img align="center" alt="Chris-CSS" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Chris-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
 </div>
-
 
 ## Contact me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <div> 
