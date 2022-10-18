@@ -1,6 +1,6 @@
 ![](https://media.discordapp.net/attachments/936682535147155509/1026790074479824916/Meu_projeto-1_2.png?width=1000&height=230)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B30000&background=7B000000&width=435&lines=Hi%2C+Welcome!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B30000&background=7B000000&width=435&lines=Hey+there%2C+Welcome!+)](https://git.io/typing-svg)
 ## About me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 My name is, [Chrislayne Godoy]()!
 - 🎓 Faculty of Systems Analysis and Development - UNIOPET
@@ -57,7 +57,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wor
 ## 
  ![Snake animation](https://github.com/chrislaynegc/chrislaynegc/blob/output/github-contribution-grid-snake.svg)
 
-## Languages and Frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## My favorite tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ### 👨‍💻 Programming and markup languages
 <p>
