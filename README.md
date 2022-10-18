@@ -21,7 +21,7 @@ My name is, [Chrislayne Godoy]()!
   </a>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrislaynegc&theme=github_dark&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrislaynegc&theme=github-dark-blue&hide_border=true&border_radius=29.2&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 ![](https://visitor-badge.glitch.me/badge?page_id=chrislaynegc)
