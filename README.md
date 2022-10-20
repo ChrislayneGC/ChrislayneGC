@@ -6,10 +6,12 @@
  <!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 My name is, [Chrislayne Godoy]()!
-- 🎓 Faculty of Systems Analysis and Development - UNIOPET
-- 📚 FullStack programmer - SENAI
-- 📩 Email: dev.chrislayne@gmail.com 
-- 😄 Pronouns: She/Her
+-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Light%20Skin%20Tone.png" width="25" /> &nbsp; Faculty of Systems Analysis and Development - [UNIOPET](https://www.opet.com.br/uniopet)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; FullStack programmer - [SENAI](https://www.sp.senai.br/)
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Email: dev.chrislayne@gmail.com 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Medium%20Skin%20Tone%2C%20Blond%20Hair.png?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Pronouns: She/Her
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="23" height="23" /> &nbsp; I love to drink coffee
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> [Follow Me on Github](https://github.com/ChrislayneGC)<br/>
 
 > ### My GitHub <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 <!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
