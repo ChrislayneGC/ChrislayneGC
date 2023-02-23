@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581d22&height=150&section=header&text=Hi+there,+I'm+Chrislayne+Godoy&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 ![](https://media.discordapp.net/attachments/936682535147155509/1032051213262397440/Design_sem_nome_1.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+Welcome!)](https://git.io/typing-svg)
