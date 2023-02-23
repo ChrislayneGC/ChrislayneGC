@@ -112,7 +112,5 @@ My name is, [Chrislayne Godoy]()!
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" /> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
- 
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581d22&height=150&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
  
