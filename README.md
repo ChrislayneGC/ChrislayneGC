@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=581d22&height=150&section=header&text=Hi+there,+I'm+Chrislayne+Godoy&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=FFFFFF&width=435&lines=Hi+there%2C+Welcome!)](https://git.io/typing-svg)
-
  > ### About me <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
  <!--LINE--> <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
